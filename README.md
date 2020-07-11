@@ -6,7 +6,7 @@ Desenvolvedor com apreço por estrutura semântica, arquitetura escalável e ló
 
 Javascript . React.js . Gatsby
 
-Motion Design . Three.js . Web Animation . Micro-interations
+Motion Design . Three.js . GSAP . Micro-interations
 
 ## the job > :pencil2:
 
