@@ -1,16 +1,17 @@
-### Hi there 👋
+# :city_sunset: Creative Developer
 
-<!--
-**baltazarparra/baltazarparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor com apreço por estrutura semântica, arquitetura escalável e lógica funcional 
 
-Here are some ideas to get you started:
+## work on .. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javascript . React.js . Gatsby
+
+Motion Design . Three.js . Web Animation . Micro-interations
+
+## the job .. :pencil2:
+
+> Creative Developer - [**baltazarparra**](https://baltazarparra.github.io/)  ⭐
+
+<p align='center'>
+  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=baltazarparra.visitor-badge">
+<p/>
