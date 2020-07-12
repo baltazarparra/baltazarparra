@@ -6,13 +6,13 @@
 
 Desenvolvedor com apreço por estrutura semântica, arquitetura escalável e lógica funcional 
 
-## work on > 💻
+## Skills 💻
 
 Javascript . React.js . Gatsby
 
 Motion Design . Three.js . GSAP . Micro-interations
 
-## the job > :pencil2:
+## Links :pencil2:
 
 > Página pessoal - [**baltazarparra**](https://baltazarparra.github.io/)  ⭐
 
