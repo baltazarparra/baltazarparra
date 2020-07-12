@@ -10,7 +10,11 @@ Desenvolvedor com apreço por estrutura semântica, arquitetura escalável e ló
 
 Javascript . React.js . Gatsby
 
-Motion Design . Three.js . GSAP . Micro-interations
+UX . Motion Design . Micro-interations
+
+next.js . GSAP . Three.js
+
+Agile
 
 ## Links :pencil2:
 
