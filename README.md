@@ -14,7 +14,7 @@ UX . Motion Design . Micro-interations
 
 next.js . GSAP . Three.js
 
-Agile
+SCRUM . Agile
 
 ## Links :pencil2:
 
