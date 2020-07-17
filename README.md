@@ -23,7 +23,3 @@ scrum . Agile
 [**codepen**](https://codepen.io/baltazarparra)
 
 [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
-
-<p align='center'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=baltazarparra.visitor-badge">
-<p/>
