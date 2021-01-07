@@ -20,8 +20,4 @@ scrum . Agile
 
 ## Links :pencil2:
 
-[**página pessoal**](https://baltazarparra.github.io/)
-
-[**codepen**](https://codepen.io/baltazarparra)
-
-[**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
+[**página pessoal**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
