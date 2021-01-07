@@ -14,8 +14,8 @@ UX . Motion Design . Micro-interations
 
 scrum . Agile
 
-<p align='left'>
-  <img align='center' src="https://media3.giphy.com/media/17l1F3n5tSOCZS1AxK/giphy.gif">
+<p align='center'>
+  <img align='center' src="https://media3.giphy.com/media/lRulEEfqNuQVeDRS5z/giphy.gif?cid=ecf05e476ca8a75fbd6ac49a74f5b6100689b7734cd52a9c&rid=giphy.gif">
 <p/>
 
 
