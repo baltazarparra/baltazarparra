@@ -12,6 +12,8 @@ Javascript . React.js . Gatsby
 
 next.js . GSAP . Three.js
 
+micro-frontends . module federation .
+
 UX . Motion Design . Micro-interations
 
 scrum . Agile
