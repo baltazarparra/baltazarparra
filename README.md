@@ -4,17 +4,19 @@
 
 ## Skills 💻
 
-Javascript . React.js . Gatsby
+Javascript . React.js . Gatsby .
 
-next.js . GSAP . Three.js
+next.js . GSAP . Three.js .
 
-Storybook . Jest . Testing Library
+CSS in JS . styled components . flexbox . grid
+
+Storybook . Jest . Testing Library .
 
 micro-frontends . module federation .
 
-UX . Motion Design . Micro-interations
+UX . Motion Design . Micro-interations .
 
-scrum . Agile
+scrum . Agile .
 
 <p align='center'>
   <img align='center' src="https://media0.giphy.com/media/RP8erNAi1lb7Li4k2t/giphy.gif?cid=ecf05e47952627a880e491485aa432604f60777231b49e63&rid=giphy.gif">
