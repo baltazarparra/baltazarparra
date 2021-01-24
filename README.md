@@ -8,6 +8,8 @@ Javascript . React.js . Gatsby
 
 next.js . GSAP . Three.js
 
+Storybook . Jest . Testing Library
+
 micro-frontends . module federation .
 
 UX . Motion Design . Micro-interations
