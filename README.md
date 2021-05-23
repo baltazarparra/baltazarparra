@@ -2,9 +2,9 @@
 
 ## Skills 💻
 
-Javascript . React.js . Gatsby . next.js .
+Javascript . React . Gatsby . Next.js .
 
-Micro Frontends architecture . module federation .
+Micro Frontends . module federation .
 
  GSAP . Three.js . CSS in JS . styled components . flexbox . grid .
 
