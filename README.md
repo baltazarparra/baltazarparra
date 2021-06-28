@@ -15,7 +15,7 @@ Micro Frontends . module federation .
  scrum . Agile .
 
 <p align='center'>
-  <img align='center' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/source.gif">
+  <img align='center' src="https://media.giphy.com/media/cJ4v3Vts7hcBAC1iDy/giphy.gif">
 <p/>
 
 
