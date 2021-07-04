@@ -13,6 +13,8 @@ Micro Frontends . module federation .
  UX . Motion Design . Micro-interations .
 
  scrum . Agile .
+ 
+ GraphQL . Apollo Server . mongodb
 
 <p align='center'>
   <img align='center' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
