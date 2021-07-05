@@ -14,7 +14,7 @@ Micro Frontends . module federation .
 
  scrum . Agile .
  
- GraphQL . Apollo-Server . mongoDB
+ GraphQL . Apollo . mongoDB
 
 <p align='center'>
   <img align='center' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
