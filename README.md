@@ -8,7 +8,7 @@ Micro Frontends . module federation .
 
  GSAP . Three.js . CSS in JS . styled components . flexbox . grid .
 
- Storybook . Jest . Testing Library .
+ Storybook . Jest . Testing Library . Cypress . Puppeteers
 
  UX . Motion Design . Micro-interations .
 
