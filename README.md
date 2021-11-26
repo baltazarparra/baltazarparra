@@ -16,6 +16,8 @@ Micro Frontends . module federation .
  
  GraphQL . Apollo . mongoDB
 
+ EF SET Score C2 Proficient
+
 <p align='center'>
   <img align='center' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
 <p/>
@@ -23,4 +25,4 @@ Micro Frontends . module federation .
 
 ## Links :pencil2:
 
-[**página pessoal**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
+[**EF SET Certificate™ C2 Proficient**](https://www.efset.org/cert/Mj458s) | [**página pessoal**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
