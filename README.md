@@ -26,3 +26,5 @@ Micro Frontends . module federation .
 ## Links :pencil2:
 
 [**EF SET Certificate™ C2 Proficient**](https://www.efset.org/cert/Mj458s) | [**página pessoal**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=baltazarparra&show_icons=true&theme=radical)
