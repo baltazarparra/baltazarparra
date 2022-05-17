@@ -2,19 +2,21 @@
 
 ## Skills 💻
 
-Javascript . React . Gatsby . Next.js .
+React . Gatsby . Next.js .
 
 Micro Frontends . module federation .
 
- GSAP . Three.js . CSS in JS . styled components . flexbox . grid .
+GSAP . Three.js . styled components .
 
- Storybook . Jest . Testing Library . Cypress . Puppeteers
+Storybook . Jest . Testing Library . Cypress . Puppeteers .
 
- UX . Motion Design . Micro-interations .
+UX . Motion Design . Micro-interations .
 
- scrum . Agile .
+scrum . Agile .
  
- GraphQL . Apollo . mongoDB
+GraphQL . Apollo . mongoDB . 
+
+web3 . 
 
  EF SET Score C2 Proficient
 
