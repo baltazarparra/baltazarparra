@@ -16,7 +16,7 @@ scrum . Agile .
  
 GraphQL . Apollo . mongoDB . 
 
-web3 . 
+web3 . metamask
 
  EF SET Score C2 Proficient
 
