@@ -42,3 +42,9 @@ https://baltazarparra.github.io/dark-pixels/
 ### ĐApp for transfer cryptocurrency
 
 https://cryptostransfer.netlify.app/
+
+## 👾 O que jogar?
+
+### Crie e compartilhe uma lista com seus jogos favoritos
+
+https://oquejogar.com/
