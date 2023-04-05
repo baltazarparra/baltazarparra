@@ -2,9 +2,11 @@
 
 ## Skills 💻
 
-React . Gatsby . Next.js . Micro Frontends . module federation . GSAP . Three.js . styled components . Storybook .
-Jest . Testing Library . Cypress . Puppeteers . UX . Motion Design . Micro-interations . scrum . Agile . GraphQL .
-Apollo . mongoDB . web3.js . metamask . ethers.js
+React . Gatsby . Next.js . Micro Frontends . module federation . GSAP . Three.js . styled components .
+
+Storybook . Jest . Testing Library . Cypress . Puppeteers . UX . Motion Design . Micro-interations . scrum . Agile . GraphQL .
+
+Apollo . mongoDB . web3.js . metamask . ethers.js .
 
 ## Links :pencil2:
 
