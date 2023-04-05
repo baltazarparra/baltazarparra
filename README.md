@@ -32,4 +32,5 @@ https://oquejogar.com/
 
 <img align='left' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
 
+## Links
 [**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/) | [**Certificado de inglês - EF SET Certificate™ C2 Proficient**](https://www.efset.org/cert/Mj458s)
