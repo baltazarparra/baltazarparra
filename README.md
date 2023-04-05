@@ -8,10 +8,6 @@ Storybook . Jest . Testing Library . Cypress . Puppeteers . UX . Motion Design .
 
 Apollo . mongoDB . web3.js . metamask . ethers.js .
 
-## Links :pencil2:
-
-[**Certificado de inglês - EF SET Certificate™ C2 Proficient**](https://www.efset.org/cert/Mj458s) | [**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
-
 ## 🌘 Dark Pixels
 
 ### A roguelite game with js
@@ -33,6 +29,10 @@ https://oquejogar.com/
 ## 🎹 [**Minhas músicas**](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
 
 [Spotify Profile](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
+
+## Links :pencil2:
+
+[**Certificado de inglês - EF SET Certificate™ C2 Proficient**](https://www.efset.org/cert/Mj458s) | [**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
 
 <p align='center'>
   <img align='left' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
