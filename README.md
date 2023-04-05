@@ -44,6 +44,8 @@ https://oquejogar.com/
 
 ## 🎹 [**Minhas músicas**](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
 
+[Spotify](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=baltazarparra&show_icons=true&theme=radical)
 
 <p align='center'>
