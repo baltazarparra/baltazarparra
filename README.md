@@ -30,8 +30,6 @@ https://oquejogar.com/
 
 [Spotify Profile](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
 
-<p align='left'>
-  <img align='left' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
-<p/>
+<img align='left' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
 
 [**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/) | [**Certificado de inglês - EF SET Certificate™ C2 Proficient**](https://www.efset.org/cert/Mj458s)
