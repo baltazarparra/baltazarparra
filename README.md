@@ -20,11 +20,6 @@ web3.js . metamask . ethers.js
 
 EF SET Score C2 Proficient
 
-<p align='center'>
-  <img align='center' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
-<p/>
-
-
 ## Links :pencil2:
 
 [**Certificado de inglês - EF SET Certificate™ C2 Proficient**](https://www.efset.org/cert/Mj458s) | [**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/)
@@ -50,3 +45,7 @@ https://cryptostransfer.netlify.app/
 https://oquejogar.com/
 
 ## 🎹 [**Minhas músicas**](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
+
+<p align='center'>
+  <img align='center' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
+<p/>
