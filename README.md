@@ -32,8 +32,8 @@ https://oquejogar.com/
 
 ## 🎹 [**Minhas músicas**](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
 
-[Spotify](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
+[Spotify Profile](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
 
 <p align='center'>
-  <img align='center' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
+  <img align='left' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
 <p/>
