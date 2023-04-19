@@ -1,12 +1,5 @@
 # :city_sunset: Creative Developer
-
-## Skills 💻
-
-React . Gatsby . Next.js . Micro Frontends . module federation . GSAP . Three.js . styled components .
-
-Storybook . Jest . Testing Library . Cypress . Puppeteers . UX . Motion Design . Micro-interations . scrum . Agile . GraphQL .
-
-Apollo . mongoDB . web3.js . metamask . ethers.js .
+# Projects
 
 ## 🌘 Dark Pixels
 
@@ -26,11 +19,27 @@ https://cryptostransfer.netlify.app/
 
 https://oquejogar.com/
 
-## 🎹 [**Minhas músicas**](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
+# Skills
 
-[Spotify Profile](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
+React . Gatsby . Next.js . 
+
+GSAP . Three.js . styled components . React Three Fiber
+
+Storybook . Jest . Testing Library . Cypress . Puppeteers .
+
+Micro Frontends . module federation . 
+
+UX . Motion Design . Micro-interations . 
+
+scrum . Agile . 
+
+GraphQL . Apollo . mongoDB .
+
+web3.js . metamask . ethers.js .
+
+## 🎹 [Spotify Profile](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
 
 ## Links
-[**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/) | [**Certificado de inglês - EF SET™ C2 Proficient**](https://www.efset.org/cert/Mj458s)
+[**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/) | [**Certificado de inglês - EF SET™ C2 Proficient**](https://www.efset.org/cert/Mj458s) | [**spotify profile**](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
 
 <img align='left' src="https://media.giphy.com/media/QH3ICOUXvsEqSWjMmF/giphy.gif">
