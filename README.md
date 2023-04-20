@@ -24,7 +24,7 @@ https://oquejogar.com/
 ## 3D Scrolling with React Three Fiber
 
 https://scrolling-motion.netlify.app/
- 
+
 # Skills
 
 React . Gatsby . Next.js . 
