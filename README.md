@@ -20,6 +20,12 @@ https://oquejogar.com/
 
 # 🧬 Experimental lab
 
+## Motion Poem with React Three Fiber
+
+<img width="400" src="https://github.com/baltazarparra/the-raven/blob/main/raven.gif">
+
+https://the-raven.vercel.app/
+
 ## 3D Scrolling with React Three Fiber
 
 <img width="400" src="https://github.com/baltazarparra/scrolling-motion/blob/main/lab1.gif">
