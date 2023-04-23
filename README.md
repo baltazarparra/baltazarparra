@@ -1,23 +1,3 @@
-# ⌨️ Projects
-
-## Dark Pixels
-
-### A roguelite game with js
-
-https://baltazarparra.github.io/dark-pixels/
-
-## Crypto Transfer
-
-### ĐApp for transfer cryptocurrency
-
-https://cryptostransfer.netlify.app/
-
-## O que jogar?
-
-### Crie e compartilhe uma lista com seus jogos favoritos
-
-https://oquejogar.com/
-
 # 🧬 Experimental lab
 
 ## Motion Poem with React Three Fiber
