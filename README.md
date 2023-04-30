@@ -1,22 +1,27 @@
-# 🧬 Experimental lab
+<h1 align="center">🤘 Hi! im baltz</h1>
 
-## Motion Poem with React Three Fiber
+<p align="center">
+  <a href="https://codesandbox.io/u/baltazarparra)">Lab</a> •
+  <a href="https://baltazarparra.github.io/">Blog</a> •
+  <a href="https://codepen.io/baltazarparra">Codepen</a> •
+  <a href="https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q">Spotify page</a> •
+  <a href="https://www.linkedin.com/in/baltazarparra/">Linkedin</a>
+</p><br>
 
-<img width="400" src="https://github.com/baltazarparra/the-raven/blob/main/raven.gif">
+<h2 align="center">🧬 Experimentals</h2><br>
+<h3 align="center">Motion Poem with React Three Fiber</h3>
 
-https://the-raven.vercel.app/
+<p align="center">
+  <img width="400" src="https://github.com/baltazarparra/the-raven/blob/main/raven.gif">
+  <br><a href="https://the-raven.vercel.app/">Demo</a> 
+</p>
 
-## 3D Scrolling with React Three Fiber
+<h3 align="center">3D Scrolling with React Three Fiber</h3>
 
-<img width="400" src="https://github.com/baltazarparra/scrolling-motion/blob/main/lab1.gif">
+<p align="center">
+  <img align="center" width="400" src="https://github.com/baltazarparra/scrolling-motion/blob/main/lab1.gif">
+  <br><a href="https://scrolling-motion.netlify.app/">Demo</a>
+</p>
+<br>
 
-https://scrolling-motion.netlify.app/
-
-# 🎹 Spotify profile
-
-### My lofi songs
-
-[Spotify Profile](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
-
-## Links
-[**blog**](https://baltazarparra.github.io/) | [**codepen**](https://codepen.io/baltazarparra) | [**linkedIn**](https://www.linkedin.com/in/baltazarparra/) | [**Certificado de inglês - EF SET™ C2 Proficient**](https://www.efset.org/cert/Mj458s) | [**spotify profile**](https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q)
+[**EF SET™ 75/100 C2 Proficient**](https://www.efset.org/cert/Mj458s)
