@@ -4,7 +4,7 @@
   <a href="https://codesandbox.io/u/baltazarparra">Lab</a> •
   <a href="https://baltazarparra.github.io/">Blog</a> •
   <a href="https://codepen.io/baltazarparra">Codepen</a> •
-  <a href="https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q">Spotify page</a> •
+  <a href="https://open.spotify.com/artist/5lgem0AFESB7PQ4GRg67CX?si=1mHXRfcPQvmXg9kJZO589Q">Spotify</a> •
   <a href="https://www.linkedin.com/in/baltazarparra/">Linkedin</a>
 </p><br>
 
