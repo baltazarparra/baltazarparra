@@ -25,3 +25,5 @@
 <br>
 
 [**EF SET™ 75/100 C2 Proficient**](https://www.efset.org/cert/Mj458s)
+
+[**English Procifiency - B2**](https://www.credly.com/badges/02d944a9-e2be-4950-a6aa-1fd945536d1b/linked_in_profile)
