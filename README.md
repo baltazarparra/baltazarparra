@@ -1,4 +1,4 @@
-<h1 align="center">🤘 Hi! im baltz</h1>
+<h1 align="center">🤘 hi! Im baltz</h1>
 
 <p align="center">
   <a href="https://baltazarparra.github.io/">Site</a> •
