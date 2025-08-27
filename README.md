@@ -8,6 +8,13 @@
   <a href="https://www.linkedin.com/in/baltazarparra/">Linkedin</a>
 </p><br>
 
+<small align="center">
+A decade in web development, shaping interfaces and experiences. Enthusiastic about genAI, with extensive agile and software engineering background.
+</small>
+<small align="center">
+  I have collaborated with major market players such as XP Investimentos, Serasa, Dasa, MRV Construtora, CVC Viagens, GFT Technologies, CI&T, among others.
+</small>
+
 <h2 align="center">🧬 Experimentals</h2><br>
 <h3 align="center">Motion Poem with React Three Fiber</h3>
 
