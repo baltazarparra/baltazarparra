@@ -27,7 +27,11 @@
 <h2 align="center">📘 Certifications</h2><br>
 
 <p align="center">
-  
+
+[🦘**Programa Tech Manager - Strides**](credential.net/d14a616d-e104-40d1-9e4f-dfdeae980e04)
+
+[**Google Prompting Essentials**](https://www.coursera.org/account/accomplishments/verify/NKU1DD8BKZ64)
+
 [**EF SET™ 75/100 C2 Proficient**](https://www.efset.org/cert/Mj458s)
 
 [**English Procifiency - B2**](https://www.credly.com/badges/02d944a9-e2be-4950-a6aa-1fd945536d1b/linked_in_profile)
