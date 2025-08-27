@@ -31,9 +31,7 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 </p>
 <br>
 
-<h2 align="center">📘 Certifications</h2><br>
-
-<p align="center">
+<h2>📘 Certifications</h2><br>
 
 [🦘**Programa Tech Manager - Strides**](https://credential.net/d14a616d-e104-40d1-9e4f-dfdeae980e04)
 
@@ -45,5 +43,4 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 
 [**Formação em liderança**](https://conquerplus.com.br/certificates/cd0b025e-e7f9-491e-998f-dbd375628dac?enrollment)
 
-</p>
 <br>
