@@ -28,7 +28,7 @@
 
 <p align="center">
 
-[🦘**Programa Tech Manager - Strides**](credential.net/d14a616d-e104-40d1-9e4f-dfdeae980e04)
+[🦘**Programa Tech Manager - Strides**](https://credential.net/d14a616d-e104-40d1-9e4f-dfdeae980e04)
 
 [**Google Prompting Essentials**](https://www.coursera.org/account/accomplishments/verify/NKU1DD8BKZ64)
 
