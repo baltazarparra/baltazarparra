@@ -31,13 +31,12 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 </p>
 <br>
 
-<h2> My game </h2>
+<h2 align="center"> 🌘 My game </h2>
 
 <p align="center">
-  🌘 A plataform vintage game, with a souls-like spirit, made in Javascript - Try it
+  A plataform vintage game, with a souls-like spirit, made in Javascript
+  <br><a href="https://baltazarparra.github.io/dark-pixels">Try it!</a>
 </p>
-
-[Dark Pixels](https://baltazarparra.github.io/dark-pixels/)
 
 <h2>📘 Certifications</h2><br>
 
