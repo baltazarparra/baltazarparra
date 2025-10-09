@@ -33,7 +33,7 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 
 <hr><br>
 
-<h2 align="center"> 🌘 My game </h2>
+<h2 align="center"> 🌘 Dark Pixels </h2>
 
 <p align="center">
   <img align="center" width="300"src="https://img.itch.zone/aW1nLzYzODA2MjMucG5n/315x250%23c/XQ5D2k.png">
