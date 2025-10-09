@@ -37,7 +37,7 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 
 <p align="center">
   <img align="center" width="300"src="https://img.itch.zone/aW1nLzYzODA2MjMucG5n/315x250%23c/XQ5D2k.png">
-  A plataform vintage game, with a souls-like spirit, made in Javascript
+  <br>A plataform vintage game, with a souls-like spirit, made in Javascript
   <br><a href="https://baltazarparra.github.io/dark-pixels">Try it!</a>
 </p>
 
