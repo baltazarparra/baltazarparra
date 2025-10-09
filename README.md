@@ -31,6 +31,14 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 </p>
 <br>
 
+<h2> My game </h2>
+
+<p align="center">
+  🌘 A plataform vintage game, with a souls-like spirit, made in Javascript - Try it
+</p>
+
+[Dark Pixels](https://baltazarparra.github.io/dark-pixels/)
+
 <h2>📘 Certifications</h2><br>
 
 [🦘**Programa Tech Manager - Strides**](https://credential.net/d14a616d-e104-40d1-9e4f-dfdeae980e04)
