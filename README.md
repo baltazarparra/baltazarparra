@@ -31,14 +31,19 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 </p>
 <br>
 
+<hr><br>
+
 <h2 align="center"> 🌘 My game </h2>
 
 <p align="center">
+  <img align="center" width="300"src="https://img.itch.zone/aW1nLzYzODA2MjMucG5n/315x250%23c/XQ5D2k.png">
   A plataform vintage game, with a souls-like spirit, made in Javascript
   <br><a href="https://baltazarparra.github.io/dark-pixels">Try it!</a>
 </p>
 
-<h2>📘 Certifications</h2><br>
+<hr><br>
+
+<h2 align="center">📘 Certifications</h2><br>
 
 [🦘**Programa Tech Manager - Strides**](https://credential.net/d14a616d-e104-40d1-9e4f-dfdeae980e04)
 
