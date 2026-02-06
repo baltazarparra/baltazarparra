@@ -12,7 +12,7 @@
 A decade in web development, shaping interfaces and experiences. Enthusiastic about genAI, with extensive agile and software engineering background.
 </small>
 <small align="center">
-  I have collaborated with major market players such as XP Investimentos, Serasa, Dasa, MRV Construtora, CVC Viagens, GFT Technologies, CI&T, among others.
+  I have collaborated with major market players such as Nike, Thoughtworks, XP Investimentos, Serasa, Dasa, MRV Construtora, CVC Viagens, GFT Technologies, CI&T, among others.
 </small>
 <hr><br>
 <h2 align="center">🧬 Experimentals</h2><br>
