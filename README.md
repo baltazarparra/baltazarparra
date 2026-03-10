@@ -15,7 +15,14 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
   I have collaborated with major market players such as Nike, Thoughtworks, XP Investimentos, Serasa, Dasa, MRV Construtora, CVC Viagens, GFT Technologies, CI&T, among others.
 </small>
 <hr><br>
-<h2 align="center">🧬 Experimentals</h2><br>
+<h2 align="center">🧬 AI DEV FLOW</h2>
+<h3 align="center">A structured, document-driven protocol for agentic software development</h3>
+
+<p align="center">
+  <br><a href="[https://the-raven.vercel.app/](https://baltazarparra.github.io/DIP/)">Protocol</a> 
+</p>
+<hr><br>
+<h2 align="center">Experimentals</h2><br>
 <h3 align="center">Motion Poem with React Three Fiber</h3>
 
 <p align="center">
