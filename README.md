@@ -19,7 +19,7 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 <h3 align="center">A structured, document-driven protocol for agentic software development</h3>
 
 <p align="center">
-  <br><a href="https://baltazarparra.github.io/DIP/">Protocol</a> 
+  <br><a href="https://baltazarparra.github.io/guia">AI-Native flow</a> 
 </p>
 <hr><br>
 <h2 align="center">Experimentals</h2><br>
