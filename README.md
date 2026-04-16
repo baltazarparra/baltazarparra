@@ -16,11 +16,10 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 </small>
 <hr><br>
 <h2 align="center">Guides</h2><br>
-<hr><br>
+<h3 align="center">An educational, interactive, visually strong website that teaches what you actually need to understand to work in engineering in a world of agents, using accessible, human language.</h3>
 <p align="center">
   <br>🧬 <a href="https://baltazarparra.github.io/ai-native-engineering">AI-Native Engineering</a> 
 </p>
-<h3 align="center">An educational, interactive, visually strong website that teaches what you actually need to understand to work in engineering in a world of agents, using accessible, human language.</h3>
 <hr><br>
 <h2 align="center">Experimentals</h2><br>
 <h3 align="center">Motion Poem with React Three Fiber</h3>
