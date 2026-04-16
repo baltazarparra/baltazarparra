@@ -15,11 +15,9 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
   I have collaborated with major market players such as Nike, Thoughtworks, XP Investimentos, Serasa, Dasa, MRV Construtora, CVC Viagens, GFT Technologies, CI&T, among others.
 </small>
 <hr><br>
-<h2 align="center">🧬 AI DEV FLOW</h2>
-<h3 align="center">A structured, document-driven protocol for agentic software development</h3>
-
+<h3 align="center">An educational, interactive, visually strong website that teaches what you actually need to understand to work in engineering in a world of agents, using accessible, human language.</h3>
 <p align="center">
-  <br><a href="https://baltazarparra.github.io/guia">AI-Native flow</a> 
+  <br><a href="https://baltazarparra.github.io/ai-native-engineering">🧬 AI-Native Engineering</a> 
 </p>
 <hr><br>
 <h2 align="center">Experimentals</h2><br>
