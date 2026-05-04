@@ -18,8 +18,7 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 
 <h3 align="center">what you actually need to understand to work with ai code agents, using accessible, human language.</h3>
 <p align="center">
-  <br>🧬 <a href="https://ai-native-engineers.com"><h2 align="center">AI-Native Engineers</h2><br>
-</a> 
+  <br>🧬 <a href="https://ai-native-engineers.com"><h2 align="center">AI-Native Engineers</h2></a> 
 </p>
 <hr><br>
 <h2 align="center">Experimentals</h2><br>
