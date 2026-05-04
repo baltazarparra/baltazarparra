@@ -14,7 +14,7 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 <small align="center">
   I have collaborated with major market players such as Nike, Thoughtworks, XP Investimentos, Serasa, Dasa, MRV Construtora, CVC Viagens, GFT Technologies, CI&T, among others.
 </small>
-
+<hr><br>
 <h3 align="center">what you actually need to understand to work with ai code agents, using accessible, human language.</h3>
 <p align="center">
   <br>🧬 <a href="https://ai-native-engineers.com">AI-Native Engineers</a> 
