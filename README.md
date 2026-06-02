@@ -20,6 +20,14 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
   <br>🧬 <a href="https://ai-native-engineers.com">AI-Native Engineers</a> 
 </p>
 <hr><br>
+<h3 align="center">Caipora - Browser Grid Classic Roguelike</h3>
+<p align="center">
+  <img width="400" src="https://github.com/baltazarparra/baltazarparra.github.io/blob/main/public/caipora.jpeg?raw=true">
+  <br><a href="https://baltazarparra.github.io/caipora">Play</a> 
+</p>
+
+
+<hr><br>
 <h2 align="center">Experimentals</h2><br>
 <h3 align="center">Motion Poem with React Three Fiber</h3>
 
