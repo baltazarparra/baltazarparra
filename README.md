@@ -22,8 +22,7 @@ A decade in web development, shaping interfaces and experiences. Enthusiastic ab
 <hr><br>
 <h3 align="center">Caipora - Browser Grid Classic Roguelike</h3>
 <p align="center">
-  <img width="400" src="https://github.com/baltazarparra/baltazarparra.github.io/blob/main/public/caipora.jpeg?raw=true">
-  <br><a href="https://baltazarparra.github.io/caipora">Play</a> 
+<iframe frameborder="0" src="https://itch.io/embed/4689027" width="552" height="167"><a href="https://baltazarparra.itch.io/caipora">Caipora by baltz</a></iframe>
 </p>
 
 
