@@ -9,6 +9,6 @@
 <hr><br>
 <h3 align="center">Caipora - Browser, Grid Roguelite Game</h3>
 <p align="center">
-  <img width="400" src="https://github.com/baltazarparra/baltazarparra.github.io/blob/main/public/caipora.jpeg">
+  <img width="400" src="https://github.com/baltazarparra/baltazarparra.github.io/blob/main/public/caipora.png">
  <br><a href="https://baltazarparra.github.io/caipora">Try it!</a>
 </p>
